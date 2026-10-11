@@ -1,0 +1,6 @@
+{
+  "name": "Tax Invoice & Bill Generator",
+  "description": "Professional GST tax invoice generator with real-time tax calculation, editable party and bank details, and instant Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
